@@ -67,7 +67,7 @@ const VehicleDetail = () => {
     { label: "Exterior colour", value: vehicle.color },
     { label: "Condition", value: vehicle.condition },
     { label: "Vehicle type", value: isElectric ? "Battery electric (BEV)" : "Hybrid" },
-    { label: "Location", value: "Remera, Kigali" },
+    { label: "Location", value: "Niboyi, Kicukiro" },
     { label: "Stock reference", value: vehicle.id.toUpperCase() },
   ];
 
@@ -222,7 +222,7 @@ const VehicleDetail = () => {
                 <div className="mt-5 space-y-2 border-t border-navy-50 pt-4 text-xs text-navy-500">
                   <p className="flex items-center gap-2">
                     <MapPin className="h-3.5 w-3.5 text-electric" aria-hidden="true" />
-                    Viewing by appointment in Remera, Kigali
+                    Viewing by appointment in Niboyi, Kicukiro
                   </p>
                   <p className="flex items-center gap-2">
                     <ShieldCheck className="h-3.5 w-3.5 text-electric" aria-hidden="true" />

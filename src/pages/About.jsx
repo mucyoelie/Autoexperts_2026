@@ -64,7 +64,7 @@ const About = () => {
               </p>
               <p>
                 Rather than give up, they trained abroad, bought the right insulated tools and diagnostic licences,
-                and opened a small two-bay workshop in Remera. Word spread through {`Kigali's`} small but growing EV
+                and opened a small two-bay workshop in Niboyi, Kicukiro. Word spread through {`Kigali's`} small but growing EV
                 community.
               </p>
               <p>
@@ -75,7 +75,7 @@ const About = () => {
             </div>
 
             <ul className="mt-7 space-y-3">
-              {["Six-bay workshop in Remera, Kigali", "High-voltage certified technicians", "Marketplace, rentals and training under one roof"].map(
+              {["Six-bay workshop in Niboyi, Kicukiro", "High-voltage certified technicians", "Marketplace, rentals and training under one roof"].map(
                 (item) => (
                   <li key={item} className="flex items-start gap-2.5 text-sm text-navy-600">
                     <CheckCircle2 className="mt-0.5 h-4 w-4 shrink-0 text-eco" aria-hidden="true" />

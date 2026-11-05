@@ -19,7 +19,7 @@ const Services = () => {
       <PageHero
         eyebrow="Our services"
         title="Everything your EV or hybrid needs, in one place."
-        description="Painting, repair and maintenance, rentals, sales, mechanic training and independent consultation — delivered by one specialist team in Remera, Kigali."
+        description="Painting, repair and maintenance, rentals, sales, mechanic training and independent consultation — delivered by one specialist team in Niboyi, Kicukiro."
         image={images.painting}
         breadcrumbs={[{ label: "Home", to: "/" }, { label: "Services" }]}
       >

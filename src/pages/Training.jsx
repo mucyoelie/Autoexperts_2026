@@ -95,7 +95,7 @@ const Training = () => {
                 loading="lazy"
               />
               <div className="absolute bottom-5 left-5 right-5 rounded-2xl bg-white/95 p-4 backdrop-blur">
-                <p className="text-sm font-semibold text-navy">Training workshop, Remera</p>
+                <p className="text-sm font-semibold text-navy">Training workshop, Niboyi, Kicukiro</p>
                 <p className="mt-1 text-xs text-navy-500">
                   Live packs, motors, inverters and chargers on the bench — the same equipment we use on customer cars.
                 </p>

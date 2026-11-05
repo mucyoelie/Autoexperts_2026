@@ -12,7 +12,7 @@ const HomeContact = () => (
           align="left"
           eyebrow="Contact"
           title="Come and see the workshop."
-          description="We are in Remera, Kigali — a short drive from the airport and easy to reach from Nyarutarama, Kimihurura and Gishushu."
+          description="We are in Niboyi, Kicukiro — a short drive from the airport and easy to reach from across Kigali."
         />
 
         <div className="mt-6 flex items-start gap-3 rounded-2xl border border-navy-100 bg-white p-4">

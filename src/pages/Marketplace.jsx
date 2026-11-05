@@ -96,7 +96,7 @@ const Marketplace = () => {
                 Selling an EV or hybrid? We will value it in 30 minutes.
               </h2>
               <p className="mt-3 max-w-2xl text-sm leading-relaxed text-ink/70">
-                Bring the car and its logbook to Remera. We run a battery health check, verify the service history and
+                Bring the car and its logbook to Niboyi, Kicukiro. We run a battery health check, verify the service history and
                 make a written offer the same day — no obligation to sell.
               </p>
             </div>

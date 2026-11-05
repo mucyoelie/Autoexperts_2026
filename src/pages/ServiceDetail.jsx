@@ -142,7 +142,7 @@ const ServiceDetail = () => {
                     </div>
                     <div className="flex items-center justify-between gap-3">
                       <dt className="text-navy-400">Workshop</dt>
-                      <dd className="text-right font-semibold text-navy">Remera, Kigali</dd>
+                      <dd className="text-right font-semibold text-navy">Niboyi, Kicukiro</dd>
                     </div>
                   </dl>
                 </div>

@@ -13,7 +13,7 @@ const ServicesSection = () => (
           align="left"
           eyebrow="What we do"
           title="Six services, one specialisation."
-          description="Everything an electric or hybrid vehicle needs in Rwanda — from a paint correction to a full battery diagnostic — under one roof in Remera."
+          description="Everything an electric or hybrid vehicle needs in Rwanda — from a paint correction to a full battery diagnostic — under one roof in Niboyi, Kicukiro."
         />
         <Button to="/services" variant="outline" iconRight={ArrowRight} className="shrink-0">
           All services

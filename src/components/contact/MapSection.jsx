@@ -12,11 +12,10 @@ const MapSection = () => (
               Find us
             </span>
             <h2 id="map-heading" className="text-2xl sm:text-3xl">
-              Remera, Kigali
+              Niboyi, Kicukiro
             </h2>
             <p className="text-sm leading-relaxed text-ink/70">
-              {site.address.full}. We are five minutes from Kigali International Airport, on the KG 11 Avenue service
-              road with parking for eight vehicles and a dedicated EV charging bay.
+              {site.address.full}. We have parking for eight vehicles and a dedicated EV charging bay.
             </p>
             <ul className="space-y-2 text-sm text-navy-600">
               <li className="flex items-start gap-2">
