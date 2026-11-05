@@ -6,6 +6,7 @@ import PageLoader from "../components/common/PageLoader";
 const Home = lazy(() => import("../pages/Home"));
 const About = lazy(() => import("../pages/About"));
 const Services = lazy(() => import("../pages/Services"));
+const SpareParts = lazy(() => import("../pages/SpareParts"));
 const ServiceDetail = lazy(() => import("../pages/ServiceDetail"));
 const Marketplace = lazy(() => import("../pages/Marketplace"));
 const VehicleDetail = lazy(() => import("../pages/VehicleDetail"));
@@ -21,6 +22,7 @@ const AppRoutes = () => (
         <Route index element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="services" element={<Services />} />
+        <Route path="spare-parts" element={<SpareParts />} />
         <Route path="services/:slug" element={<ServiceDetail />} />
         <Route path="vehicles" element={<Marketplace />} />
         <Route path="vehicles/:slug" element={<VehicleDetail />} />

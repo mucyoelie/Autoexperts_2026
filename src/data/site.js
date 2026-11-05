@@ -39,6 +39,7 @@ export const navLinks = [
   { label: "Home", to: "/" },
   { label: "About", to: "/about" },
   { label: "Services", to: "/services" },
+  { label: "Spare parts", to: "/spare-parts" },
   { label: "Marketplace", to: "/vehicles" },
   { label: "Rentals", to: "/rentals" },
   { label: "Training", to: "/training" },
